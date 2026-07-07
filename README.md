@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Full-Stack & AI Developer</h1>
-  <p>I fix bugs for breakfast.</p>
+  <h1>Full-Stack & AI Developer</h1> <p>I fix bugs for breakfast.</p>
   
   <a href="https://www.linkedin.com/in/manet-hoeurn09/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://hoeurn-manet-porfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -35,11 +34,9 @@
 
 ### 📊 GitHub Contribution Summary
 
-<p align="center">
-  <a href="https://github.com/manet09">
-    <img src="https://github-readme-stats.vercel.app/api?username=manet09&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/manet09">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manet09&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manet09&show_icons=true&theme=transparent&hide_border=true)](https://github.com/manet09)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manet09&theme=transparent&hide_border=true)](https://github.com/manet09)
+
+</div>
