@@ -1,10 +1,12 @@
 <div align="center">
-  <h1>Full-Stack & AI Developer</h1>
+  <span style="font-size: 2em; font-weight: bold; display: block; margin-bottom: 10px;">Full-Stack & AI Developer</span>
   <p>I fix bugs for breakfast.</p>
-  
+
   <a href="https://www.linkedin.com/in/manet-hoeurn09/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://hoeurn-manet-porfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
+
+
 
 ---
 
@@ -35,11 +37,17 @@
 
 ### GitHub Contribution Summary
 
-<p align="center">
-  <a href="https://github.com/manet09">
-    <img src="https://github-readme-stats.vercel.app/api?username=manet09&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/manet09">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manet09&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td bgcolor="#161d29" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <!-- <a href="https://github.com/manet09" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api?username=manet09&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+        </a> -->
+        <span>&nbsp;&nbsp;</span> <a href="https://github.com/manet09" target="_blank">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=manet09&theme=transparent&hide_border=true" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
