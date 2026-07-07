@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Full-Stack & AI Developer</h1>
+  <h1>Full-Stack Developer</h1>
   <p>I fix bugs for breakfast.</p>
 
   <a href="https://www.linkedin.com/in/manet-hoeurn09/" target="_blank">
