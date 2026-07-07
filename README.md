@@ -40,19 +40,15 @@
 
 ### GitHub Contribution Summary
 
-
-
 <div align="center">
   <table>
     <tr>
-      <!-- <td align="center" valign="middle">
-        <a href="https://github.com/manet09" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api?username=manet09&show_icons=true&theme=dark" alt="GitHub Stats" />
-        </a>
-      </td> -->
-      <td align="center" valign="middle">
-        <a href="https://github.com/manet09" target="_blank">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=manet09&theme=dark" alt="GitHub Streak" />
+      <td bgcolor="#161d29" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+        <!-- <a href="https://github.com/manet09" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api?username=manet09&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+        </a> -->
+        <span>&nbsp;&nbsp;</span> <a href="https://github.com/manet09" target="_blank">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=manet09&theme=transparent&hide_border=true" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
